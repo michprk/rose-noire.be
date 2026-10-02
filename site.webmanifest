@@ -1,0 +1,16 @@
+{
+  "name": "Rose Noire — Fleuriste au Châtelain",
+  "short_name": "Rose Noire",
+  "description": "Fleurs d’accueil, événements, cadeaux d’affaires et bouquets livrés partout à Bruxelles.",
+  "lang": "fr-BE",
+  "start_url": "/rose-noire.be/",
+  "scope": "/rose-noire.be/",
+  "display": "standalone",
+  "background_color": "#08060a",
+  "theme_color": "#08060a",
+  "icons": [
+    { "src": "/rose-noire.be/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/rose-noire.be/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/rose-noire.be/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

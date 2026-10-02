@@ -1,0 +1,5 @@
+_lab/
+dist/
+.DS_Store
+Thumbs.db
+*.log
